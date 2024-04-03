@@ -1,6 +1,6 @@
 # sussyStashFR
  
-一个简单的sussyStash播放器
+一个简单的sussyStash播放器 **仅供学习交流**
 
 features:
  - 音视频
