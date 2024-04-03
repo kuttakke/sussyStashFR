@@ -1,4 +1,4 @@
-# sussyStash
+# sussyStashFR
  
 一个简单的sussyStash播放器
 
